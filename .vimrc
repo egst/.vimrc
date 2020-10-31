@@ -7,19 +7,12 @@ Plug 'patstockwell/vim-monokai-tasty'
 Plug 'NLKNguyen/papercolor-theme'
 Plug 'scrooloose/nerdtree'
 Plug 'ryanoasis/vim-devicons'
-"Plug 'jiangmiao/auto-pairs'
-"Plug 'scrooloose/nerdcommenter'
 Plug 'moll/vim-bbye'
-"Plug 'severin-lemaignan/vim-minimap'
-"Plug 'koron/minimap-vim'
 Plug 'justinmk/vim-syntax-extra'
-"Plug 'ycm-core/YouCompleteMe'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'airblade/vim-gitgutter'
-"Plug 'zivyangll/git-blame.vim'
 Plug 'jreybert/vimagit'
 Plug 'tpope/vim-fugitive'
-"Plug 'tpope/vim-rhubarb'
 Plug 'embark-theme/vim', {'as': 'embark'}
 call plug#end()
 
