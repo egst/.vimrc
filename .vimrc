@@ -197,8 +197,6 @@ xnoremap :  W
 onoremap :  W
 autocmd FileType * nnoremap <nowait> <buffer>
        \ y  /
-" TODO: Is this needed?
-"xunmap y
 onoremap y  i
 nnoremap Y  ?
 nnoremap n  h
