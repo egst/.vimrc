@@ -59,12 +59,12 @@ hi SpecialKey ctermfg=none guifg=grey40
 "" Airline:
 let g:airline_powerline_fonts            = 1
 let g:airline#extensions#tabline#enabled = 1
-" TODO:
-let g:NERDTreeMouseMode=2
-let g:webdevicons_conceal_nerdtree_brackets = 1
 
 "" NERDTree:
-let g:NERDTreeWinPos = 'right'
+let g:NERDTreeWinPos                        = 'right'
+" TODO:
+let g:NERDTreeMouseMode                     = 2
+let g:webdevicons_conceal_nerdtree_brackets = 1
 
 "" GitGutter:
 let g:gitgutter_sign_added              = '+'
